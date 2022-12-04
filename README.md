@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="assets/lazyprincessbot.jpg" alt="Lazy Princess Logo">
+  <img src="https://telegra.ph/file/650add08e5fb002fa29c4.jpg" alt="Lazy Princess Logo">
 </p>
 <h1 align="center">
-  <b> Lazy Princess BOT </b>
+  <b> ಕನ್ನಡ ಸಿನಿಮಾ </b>
 </h1>
 
 ## ⚡️Features
@@ -48,28 +48,6 @@ You can deploy this bot anywhere.
 <a target="_blank" href="https://app.koyeb.com/deploy?type=git&repository=github.com/LazyDeveloperr/LazyPrincess&branch=master&name=lazyprincessbot"><img alt="Deploy to Koyeb" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/koyeb.svg"></a>
 
 
-<details><summary>Deploy To Heroku</summary>
-<p>
-<br>
-<a href="https://heroku.com/deploy?template=https://github.com/LazyDeveloperr/LazyPrincess">
-  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
-</a>
-</p>
-</details>
-
-<details><summary>Deploy To VPS</summary>
-<p>
-<pre>
-git clone https://github.com/LazyDeveloperr/LazyPrincess
-# Install Packages
-pip3 install -U -r requirements.txt
-Edit info.py with variables as given below then run bot
-python3 bot.py
-</pre>
-</p>
-</details>
-
-
 ## Commands
 ```
 • /logs - to get the rescent errors
@@ -105,18 +83,3 @@ python3 bot.py
 ## Credits 
 * [![LazyPrincess-Devs](https://img.shields.io/static/v1?label=LazyPrincess&message=devs&color=critical)](https://telegram.dog/LazyDeveloper)
 
-
-## Thanks to 
- - Thanks To Dan For His Awesome [Library](https://github.com/pyrogram/pyrogram)
- - Thanks To Mahesh For His Awesome [Media-Search-bot](https://github.com/Mahesh0253/Media-Search-bot)
- - Thanks To [Trojanz](https://github.com/trojanzhex) for Their Awesome [Unlimited Filter Bot](https://github.com/TroJanzHEX/Unlimited-Filter-Bot) And [AutoFilterBoT](https://github.com/trojanzhex/auto-filter-bot)
- - Thanks To All Everyone In This Journey
-
-### Note
-
-[Join Main Channel](https://telegram.dog/LazyDeveloper): LazyDeveloper
-
-## Disclaimer
-[![GNU Affero General Public License 2.0](https://www.gnu.org/graphics/agplv3-155x51.png)](https://www.gnu.org/licenses/agpl-3.0.en.html#header)    
-Licensed under [GNU AGPL 2.0.](https://github.com/LazyDeveloperr/LazyPrincess/blob/master/LICENSE)
-Selling The Codes To Other People For Money Is *Strictly Prohibited*.
